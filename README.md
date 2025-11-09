@@ -1,73 +1,17 @@
-# Welcome to your Lovable project
+Project Description
 
-## Project info
+Psych Sync is a modern, multilingual mental health web application built with React, Vite, and Tailwind CSS. It provides users with access to self-assessment tools, resources, peer support, and professional services in multiple Indian languages. The platform features interactive charts, dashboards, and a responsive UI powered by shadcn-ui and Radix UI components.
 
-**URL**: https://lovable.dev/projects/709d5b17-5f09-4f98-a3cb-47530b429840
+Key features include:
 
-## How can I edit this code?
+User Dashboard: Personalized dashboard for tracking assessments and resources.
+Assessments: Standardized tools like PHQ-9, GAD-7, GHQ, and MBTI for self-evaluation.
+Multilingual Support: Localized in 20+ Indian languages using i18next.
+Resource Hub: Curated mental health resources and articles.
+Peer Support & Chat: Connect with peers and professionals for support.
+Accessibility: Compliant with accessibility standards and includes accessibility statements.
+Admin Dashboard: Manage content and user data securely.
+Modern UI: Built with shadcn-ui, Tailwind CSS, and Radix UI for a seamless experience.
+Testing & Debugging: Includes dedicated debug and test pages for development.
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/709d5b17-5f09-4f98-a3cb-47530b429840) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/709d5b17-5f09-4f98-a3cb-47530b429840) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+The project is structured for scalability and easy customization, making it suitable for organizations or individuals aiming to provide accessible mental health support online.
